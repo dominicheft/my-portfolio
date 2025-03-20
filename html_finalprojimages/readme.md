@@ -1,0 +1,15 @@
+This directory has all the images used in the final project.
+
+![waving-hand](https://github.com/user-attachments/assets/2ed73322-9263-4148-9122-25a5f6abdf81)
+![react](https://github.com/user-attachments/assets/36e140cd-2616-47ae-b47a-e5688364358f)
+![phone](https://github.com/user-attachments/assets/965424d9-49df-400c-bd05-894a266e0a0d)
+![node](https://github.com/user-attachments/assets/b39e73c7-b489-49ab-b6ed-134dea7641b1)
+![js](https://github.com/user-attachments/assets/1b443cb7-e48b-45ba-bd5f-2aa60140d6be)
+![java](https://github.com/user-attachments/assets/f1a4afa7-5649-4d1e-9629-1a5824f50c40)
+![html5](https://github.com/user-attachments/assets/4cb478b9-bba9-446f-891d-c346a28b73ab)
+![home](https://github.com/user-attachments/assets/f2091e63-ac15-4971-ab33-708870fc5c8b)
+![flash](https://github.com/user-attachments/assets/4a82239b-6f7a-4f9f-a723-b0d73acd9bd4)
+![envelope](https://github.com/user-attachments/assets/fd3a1292-79c1-49de-97f5-ebcd8348fca5)
+![CSS3](https://github.com/user-attachments/assets/9282a808-8abd-496b-9ada-c8f368e9942a)
+![checkmark--outline](https://github.com/user-attachments/assets/0779b561-4775-4937-be90-49fe04d86918)
+![bullet](https://github.com/user-attachments/assets/623d7c14-922a-4d73-8941-b0a409a25687)
